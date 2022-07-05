@@ -13,4 +13,4 @@ getWordCount = (myString) => {  // Create function, pass in parameter
     return wordCount
 }
 // Used to test functionality
-console.log(getWordCount('I am a happy baby.'));
+console.log(getWordCount('We love New York.'));
